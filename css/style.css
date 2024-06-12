@@ -131,7 +131,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #3f81b3 url(../images/bg.jpg) no-repeat center;
+  background: #3f81b3 url(../img/bgerror.jpg) no-repeat center;
   background-size: cover;
   overflow: hidden;
   z-index: 0;
